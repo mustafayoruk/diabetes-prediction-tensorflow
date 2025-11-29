@@ -1,6 +1,6 @@
 # diabetes-prediction-tensorflow
 
-# 🏥 Diabetes Prediction with TensorFlow (Deep Learning)
+#  Diabetes Prediction with TensorFlow (Deep Learning)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
@@ -16,7 +16,7 @@ The dataset consists of medical diagnostic reports of 768 female patients.
 * **Independent Variables (X):** Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age.
 * **Dependent Variable (y):** Outcome (0: Healthy, 1: Diabetic).
 
-## ⚙️ Methodology & Tech Stack
+##  Methodology & Tech Stack
 
 ### 1. Data Preprocessing
 * **Stratified Train-Test Split:** Preserved the ratio of diabetic/healthy patients in both sets.
