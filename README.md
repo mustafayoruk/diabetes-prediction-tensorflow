@@ -40,7 +40,7 @@ A Sequential Artificial Neural Network was implemented:
 ##  How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/diabetes-prediction-tensorflow.git](https://github.com/YOUR_USERNAME/diabetes-prediction-tensorflow.git)
+    git clone [https://github.com/mustafayoruk/diabetes-prediction-tensorflow.git](https://github.com/mustafayoruk/diabetes-prediction-tensorflow.git)
     ```
 2.  Install the required libraries:
     ```bash
